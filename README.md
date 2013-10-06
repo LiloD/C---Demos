@@ -1,4 +1,0 @@
-C---Demos
-=========
-
-C++ Practise
